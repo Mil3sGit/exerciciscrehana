@@ -1,0 +1,2 @@
+# exerciciscrehana
+copia dels exercicis
