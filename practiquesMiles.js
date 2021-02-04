@@ -1,0 +1,1 @@
+alert('HOla això és una alerta')
