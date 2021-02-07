@@ -12,4 +12,15 @@
 // ---------------------------------------------------------------------------------
 
 
-var boton = document.getElementById('boton');
+// var boton = document.getElementById('boton');
+
+// var segundoParrafo = document.querySelector('#segundo');
+
+// var parrafos = document.getElementsByClassName('texto');
+
+// var parrafos = document.getElementsByTagName('p');
+
+var parrafos = document.querySelectorAll('.texto');
+
+
+
